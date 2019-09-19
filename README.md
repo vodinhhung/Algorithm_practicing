@@ -1,4 +1,4 @@
-# Algorithm
+# Algorithm practicing
 ```
 Solutions for algorithm and data structure problems in leetcode, hackerrank and daily coding problem. 
 With a hope to receive many excellent source codes for only study case, contribution highly welcome
