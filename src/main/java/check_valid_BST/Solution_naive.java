@@ -1,8 +1,10 @@
 package check_valid_BST;
 
-public class Solution {
+public class Solution_naive {
 
-    // Recursive solution
+    // Recursive solution (naive)
+    // Time complexity: O(n)
+    // Space complexity: O(1)
     public static boolean isValidBST(TreeNode root) {
         if (root == null || (root.left==null && root.right==null))
             return true;
