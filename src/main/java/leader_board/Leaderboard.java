@@ -1,4 +1,4 @@
-package LeaderBoard;
+package leader_board;
 
 import java.util.*;
 
