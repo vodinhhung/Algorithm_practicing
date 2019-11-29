@@ -1,0 +1,469 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Question1<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "amazon_intern_apply.Question1",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "array_transformation.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution_naive<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "check_valid_BST.Solution_naive",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BanuluvBusiness<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "codetour.BanuluvBusiness",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PasswordEcryption<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "codetour.PasswordEcryption",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SmartRobot<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "codetour.SmartRobot",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Count_fib<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "codevita.Count_fib",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(1)",
+            "request": "launch",
+            "mainClass": "coin_change.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(2)",
+            "request": "launch",
+            "mainClass": "construct_BT_in_preorder.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(3)",
+            "request": "launch",
+            "mainClass": "contains_duplicate.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-contest<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "contest_15_9_leetcode.contest",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "course_schedule.Main",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(4)",
+            "request": "launch",
+            "mainClass": "encode_number.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(5)",
+            "request": "launch",
+            "mainClass": "equal_substring.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(6)",
+            "request": "launch",
+            "mainClass": "excel_sheet_column.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<leetcode_challenge>(1)",
+            "request": "launch",
+            "mainClass": "game_of_life.Main",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<leetcode_challenge>(2)",
+            "request": "launch",
+            "mainClass": "group_anagram.Main",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(7)",
+            "request": "launch",
+            "mainClass": "insert_position.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(8)",
+            "request": "launch",
+            "mainClass": "integer_to_roman.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution_naive<leetcode_challenge>(1)",
+            "request": "launch",
+            "mainClass": "integer_to_roman.Solution_naive",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(9)",
+            "request": "launch",
+            "mainClass": "intersection_two_array.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(10)",
+            "request": "launch",
+            "mainClass": "k_smallest_BST.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<leetcode_challenge>(3)",
+            "request": "launch",
+            "mainClass": "leader_board.Main",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution_naive<leetcode_challenge>(2)",
+            "request": "launch",
+            "mainClass": "length_last_word.Solution_naive",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution_optimism<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "length_last_word.Solution_optimism",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(11)",
+            "request": "launch",
+            "mainClass": "longgest_common_prefix.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<leetcode_challenge>(4)",
+            "request": "launch",
+            "mainClass": "lowest_common_ancestor.Main",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(12)",
+            "request": "launch",
+            "mainClass": "majority_element.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(13)",
+            "request": "launch",
+            "mainClass": "max_length_concentration.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(14)",
+            "request": "launch",
+            "mainClass": "maximum_subarray.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(15)",
+            "request": "launch",
+            "mainClass": "merge_intervals.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(16)",
+            "request": "launch",
+            "mainClass": "merge_sort_array.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<leetcode_challenge>(5)",
+            "request": "launch",
+            "mainClass": "min_stack.Main",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(17)",
+            "request": "launch",
+            "mainClass": "move_zeros.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(18)",
+            "request": "launch",
+            "mainClass": "numbers_of_1_bit.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(19)",
+            "request": "launch",
+            "mainClass": "palindrome_linked_list.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(20)",
+            "request": "launch",
+            "mainClass": "pascal_triangle.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(21)",
+            "request": "launch",
+            "mainClass": "permutations.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution2<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "permutations.Solution2",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution_next_permutation<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "permutations.Solution_next_permutation",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(22)",
+            "request": "launch",
+            "mainClass": "plus_one.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(23)",
+            "request": "launch",
+            "mainClass": "pow.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(24)",
+            "request": "launch",
+            "mainClass": "product_of_array_except_sell.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(25)",
+            "request": "launch",
+            "mainClass": "remove_value.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(26)",
+            "request": "launch",
+            "mainClass": "replace_substring.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(27)",
+            "request": "launch",
+            "mainClass": "reverse_polish_notation.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(28)",
+            "request": "launch",
+            "mainClass": "reverse_string.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution_ex2<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "reverse_string.Solution_ex2",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(29)",
+            "request": "launch",
+            "mainClass": "roman_to_integer.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(30)",
+            "request": "launch",
+            "mainClass": "rotate_array.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(31)",
+            "request": "launch",
+            "mainClass": "rotated_sort_array.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(32)",
+            "request": "launch",
+            "mainClass": "single_cycle_check.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(33)",
+            "request": "launch",
+            "mainClass": "sort_color.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(34)",
+            "request": "launch",
+            "mainClass": "sqrt_of_x.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(35)",
+            "request": "launch",
+            "mainClass": "subsets.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution_naive<leetcode_challenge>(3)",
+            "request": "launch",
+            "mainClass": "subsets.Solution_naive",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Sum<leetcode_challenge>",
+            "request": "launch",
+            "mainClass": "sum_three.Sum",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(36)",
+            "request": "launch",
+            "mainClass": "time_to_buy_and_sell.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<leetcode_challenge>(6)",
+            "request": "launch",
+            "mainClass": "top_k_frequent_elements.Main",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(37)",
+            "request": "launch",
+            "mainClass": "trapping_water.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(38)",
+            "request": "launch",
+            "mainClass": "tree_level_order_traversal.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(39)",
+            "request": "launch",
+            "mainClass": "unique_paths.Solution",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution_naive<leetcode_challenge>(4)",
+            "request": "launch",
+            "mainClass": "valid_anagram.Solution_naive",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution_optimism<leetcode_challenge>(1)",
+            "request": "launch",
+            "mainClass": "valid_anagram.Solution_optimism",
+            "projectName": "leetcode_challenge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode_challenge>(40)",
+            "request": "launch",
+            "mainClass": "valid_parentheses.Solution",
+            "projectName": "leetcode_challenge"
+        }
+    ]
+}
