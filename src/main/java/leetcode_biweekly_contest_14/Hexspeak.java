@@ -4,7 +4,7 @@ public class Hexspeak {
     public static String toHexspeak(String num) {
         long no = Long.parseLong(num);
         String s = Long.toHexString(no);
-        System.out.print(s);
+        System.out.println(s);
         char[] cha = s.toCharArray();
         char[] list = new char[cha.length];
 
@@ -17,14 +17,14 @@ public class Hexspeak {
             if(cha[i] == 'd') list[i] = 'D';
             if(cha[i] == 'e') list[i] = 'E';
             if(cha[i] == 'f') list[i] = 'F';
-            if(Character.getNumericValue(cha[i])>1 && Character.getNumericValue(cha[i])<0) return "ERROR";
+            if(Character.getNumericValue(cha[i])>1 && Character.getNumericValue(cha[i])<10) return "ERROR";
         }
 
         return new String(list);
     }
 
     public static void main(String[] args){
-        String num = "619879596177";
+        String num = "3";
         String result = toHexspeak(num);
 
         System.out.print(result);
