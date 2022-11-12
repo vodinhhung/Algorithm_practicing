@@ -1,0 +1,17 @@
+1. up-casting và down-casting
+
++ không th? chuy?n d?i ki?u r?ng hon sang ki?u h?p hon
+	double -> float //error
+	float -> double // okie
+
++ Up-casting: di t? du?i lên trên
+	Nguoi ng = new Nhanvien(); //Ðây là up-casting
+ - N?u là m?t l?p tr?u tu?ng; không khai báo tr?c ti?p du?c d?i tu?ng nhung có th? khai báo ki?u up-casting
+	Sinhvat sv1 = new ConGa(); //Sinhvat() là l?p tr?u tu?ng; ConGa() extends Sinhvat(); sv1 du?c coi là m?t d?i tu?ng c?a l?p Sinhvat()
+
++ Down-casting: di xu?ng cây phân c?p th?a k?
+	Nguoi ng = new Nhanvien(); //Ð?i tu?ng ng hi?n t?i là d?i tu?ng c?a l?p Nguoi
+	Nhanvien nv2 = (Nhanvien) ng; //chuy?n d?i d?i tu?ng ng sang nv2 thu?c l?p Nhanvien()
+	TruongPhong tp = (TruongPhong) nv2; //error
+
+2. Liên k?t tinh và liên k?t d?ng

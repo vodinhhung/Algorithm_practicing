@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522293134 source:d:\code\thi2\thi.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+

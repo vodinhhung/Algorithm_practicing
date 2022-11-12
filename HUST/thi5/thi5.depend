@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522293749 source:d:\code\thi5\thi5.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

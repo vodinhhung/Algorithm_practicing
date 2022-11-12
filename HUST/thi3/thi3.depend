@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522292499 source:d:\code\thi3\thi3.c
+	"stdio.h"
+	"conio.h"
+	"math.h"
+

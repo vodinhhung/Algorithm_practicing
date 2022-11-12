@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1527727973 source:d:\code\thicuoiki\thicuoiki.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<math.h>
+

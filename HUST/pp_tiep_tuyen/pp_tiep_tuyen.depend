@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522248023 source:d:\code\pp_tiep_tuyen\main.c
+	"stdio.h"
+	"conio.h"
+	"math.h"
+

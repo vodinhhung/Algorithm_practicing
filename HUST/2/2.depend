@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512040785 source:d:\code\2\so_dac_biet.c
+	"stdio.h"
+	"conio.h"
+

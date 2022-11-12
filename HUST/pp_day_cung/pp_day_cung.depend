@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1517155072 source:d:\code\pp_day_cung\main.c
+	"stdio.h"
+	"conio.h"
+	"ham.h"
+
+1517273813 d:\code\pp_day_cung\ham.h
+	"math.h"
+

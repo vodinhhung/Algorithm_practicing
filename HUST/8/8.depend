@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512666873 source:d:\code\8\sap_xep_chon.c
+	"stdio.h"
+	"stdlib.h"
+

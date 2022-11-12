@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512676950 source:d:\code\9\chia_bi.c
+	"stdio.h"
+	"conio.h"
+	"stdlib.h"
+
